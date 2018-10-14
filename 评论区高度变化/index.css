@@ -1,0 +1,28 @@
+* {
+    margin:0;
+    padding:0;
+    font:normal 12px/17px Arial;
+}
+.msg {
+    width:300px;
+    margin:100px;
+}
+.msg_caption {
+    width:100%;
+    overflow:hidden;
+    margin-bottom:1px;
+}
+.msg_caption span {
+    display:block;
+    float:left;
+    margin:0 2px;
+    padding:4px 10px;
+    background:#898989;
+    cursor:pointer;
+    color:white;
+}
+.msg textarea{
+    width:300px;
+    border:1px solid #000;
+}
+
